@@ -7,7 +7,7 @@ public class MyDbCon {
 	//Source > Generate Constructor using Fields > Deselect All > Generate
 	public MyDbCon() {
 		super();
-		System.out.println("HELLO FROM CONSTRUCTOR..");
+		System.out.println("HELLO FROM CONSTRUCTOR...");
 	}
 	//Source > Generate setters/getters > Select All > Generate
 	public String getDriver() {
